@@ -1,0 +1,1 @@
+para abrir nosso arquivo com os codigos abra um google colab e faça upload do arquivo: Cópia_de_Projeto_IFB, assim conseguira vizualizar o codigo e executar para teste.
